@@ -2,6 +2,7 @@
 import java.util.Scanner;
 public class MathPractice {
     public static void main(String[] args) {
+    
         Scanner sc = new Scanner(System.in);
         System.out.println("Equation 1: Calculate the height of a right triangle.");
         System.out.print("Enter base (b): ");
